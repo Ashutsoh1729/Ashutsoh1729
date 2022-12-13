@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashutsoh1729
+- 👋 Hi, I’m @Ashutsoh Hota.
 - 👀 I’m interested in Open Source , DevOps , And almost everything new.
 - 🌱 I’m currently learning Java, DSA.
 - 💞️ I’m looking to collaborate on different Open Source projects.
