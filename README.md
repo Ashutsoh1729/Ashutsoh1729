@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ashutsoh Hota.
-- 👀 I’m interested in Open Source , DevOps , And almost everything new.
-- 🌱 I’m currently learning Java, DSA.
-- 💞️ I’m looking to collaborate on different Open Source projects.
+- 👋 Hi, I’m Ashutsoh Hota.
+- 👀 Full-Stack Designer & Developer.
+- 🌱 Frequent in Javascript, Typescript, Python, Go.
 - 📫 How to reach me [Twitter](https://twitter.com/ashutoshtwt07), [LinkedIn](https://www.linkedin.com/in/ashutosh-hota-a389a7244/).
 
 <!---
