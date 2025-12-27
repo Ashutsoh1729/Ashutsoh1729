@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashutsoh Hota.
 - 👀 Full-Stack Designer & Developer.
-- 🌱 Frequent in Javascript, Typescript, Python, Go.
+- 🌱 Proficient in Javascript, Typescript, Python, Go.
 - 📫 How to reach me [Twitter](https://twitter.com/ashutoshtwt07), [LinkedIn](https://www.linkedin.com/in/ashutosh-hota-a389a7244/).
 
 <!---
